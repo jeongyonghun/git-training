@@ -8,6 +8,7 @@ int main()
 	eng = 100;
 	kor = 90;
 
+	printf("±³½´´Ô Ä¿¹Ô\n");	
 	printf("This program print report card.\n");
 
 	printf("Korean : %d\n", kor);
